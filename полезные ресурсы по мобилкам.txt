@@ -1,0 +1,30 @@
+Дэшборд- статистика Android:
+https://developer.android.com/about/d...
+
+Дэшборд-статистика iOS:
+https://developer.apple.com/support/a...
+
+Android vs iOS:
+https://mixpanel.com/trends/#report/a...
+
+Статистика по использованию устройств:
+https://gs.statcounter.com/vendor-mar...
+https://www.appbrain.com/stats/top-an...
+
+Рекомендации по формированию парка девайсов для тестирования мобильных приложений:
+https://www.browserstack.com/test-on-...
+
+Гайдлайн по UI для Android:
+https://developer.android.com/guide/t...
+
+Гайдлайн по UI для Apple:
+https://developer.apple.com/design/hu...
+
+Ссылка на Android SDK:
+https://developer.android.com/studio
+
+Ссылка на Xcode:
+https://developer.apple.com/xcode/
+
+Ссылка на эмулятор Genymotion:
+https://www.genymotion.com/
